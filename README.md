@@ -9,4 +9,5 @@ Desafio referente ao módulo: Fundamentos do Node.js - Curso Ignite da Rockeatse
 
 ## Techs
 
+- [x] JavaScript
 - [x] Node.js
